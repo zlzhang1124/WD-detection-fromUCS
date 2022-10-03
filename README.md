@@ -1,2 +1,4 @@
-# WD-detection-fromUCS
-Wilson’s Disease Detection in Unstructured Connected Speech
+
+## This is the source code for the article ''*** *** ***''.
+
+The code is coming soon...
