@@ -8,4 +8,4 @@ Since the data used in this study include naturalistic speech samples that can b
 
 If you use the code in your research, we would appreciate a citation to the appropriate paper(s):
 
-> NA now.
+> Zhang, Z., Yang, L. Z., Wang, X., Wang, H., Wong, S. T., Li, H. Detecting Wilson's disease from unstructured connected speech: An embedding-based approach augmented by attention and bi-directional dependency. Speech Communication, 2024, 156: 103011.
